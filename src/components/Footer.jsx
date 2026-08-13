@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
       <div className="container">
         <div className="footer__top">
-          <a href="/" className="footer__logo">
+          <a href="/test_task/" className="footer__logo">
             snapbuild
           </a>
 

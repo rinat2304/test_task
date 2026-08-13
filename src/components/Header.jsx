@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="header">
       <div className="container header__inner">
-        <a href="/" className="logo">
+        <a href="/test_task/" className="logo">
           snapbuild
         </a>
 

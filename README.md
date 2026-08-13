@@ -11,7 +11,7 @@
 ## Demo
 
 **GitHub Pages:**
-`https://rinat2304.github.io/snapbuild_test/`
+`https://rinat2304.github.io/test_task/`
 
 ## Локальный запуск
 
