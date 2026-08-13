@@ -11,9 +11,7 @@
 ## Demo
 
 **GitHub Pages:**
-`https://USERNAME.github.io/REPOSITORY/`
-
-> Замените `USERNAME` и `REPOSITORY` на реальные значения после публикации.
+`https://rinat2304.github.io/snapbuild_test/`
 
 ## Локальный запуск
 
@@ -166,4 +164,4 @@ npm run preview
 
 ## Автор
 
-Тестовое задание на позицию Junior Fullstack Developer.
+Галиев Р. Н.
